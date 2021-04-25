@@ -1,3 +1,5 @@
 Hi! I'm Bob. I'm new here.
 
 something else here.
+
+check if `git stash` works
